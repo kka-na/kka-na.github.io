@@ -3,8 +3,8 @@ layout: page
 title: Kana Kim
 ---
 
-👩🏻 💻 🚙 🍺 🍷 🏂 🎹 🥁 🎮 📸 🇰🇷 🇯🇵 🇩🇪 🇺🇸
+Inha University, Information and Communication Engineering major.
 
-### My story
+### I'm
 
-To be honest, I'm having some trouble remembering right now.
+SW Engineer 
