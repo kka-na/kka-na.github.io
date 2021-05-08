@@ -70,7 +70,7 @@ You can add notification, warning and error boxes like this:
 ### Warning
 
 {: .box-warning}
-**Warning:** This is a warning box.
+**Warning:** The posts on this blog may not be the correct answer.
 
 ### Error
 
