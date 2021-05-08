@@ -1,5 +1,5 @@
 ---
 layout: category
-title: ros
+title: ROS
 permalink: category/ros
 ---
