@@ -15,7 +15,10 @@ author: Kana kim
 
 navbar-links:
   About Me: "aboutme"
-  Qt5: "qt5"
+  Category:
+    - ROS: "/category/ros"
+    - Qt: "/category/qt"
+    - AI: "/category/ai"
   
 # --- Logo --- #
 
