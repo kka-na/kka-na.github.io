@@ -7,9 +7,6 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
-
-### Notification
-
 {: .box-note}
 **Note : ** The posts on this blog may not be the correct answer.
 
