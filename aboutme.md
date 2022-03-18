@@ -3,8 +3,7 @@ layout: page
 title: Kana Kim
 ---
 
-Inha University, Information and Communication Engineering major.
-
-### I'm
-
-SW Engineer 
+- 👋 MSc in Artificial Intelligence at INHA University.
+- 👀 I’m interested in AI, DL, Autonomous Vehicle, XAI
+- 🌱 I’m currently learning Active Learning, Auto Labeling, ReactJS, ROS system, ... 
+- 📫 How to reach me kimkana57@gmail.com
